@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Puppy</string>
+    <string name="nombre">J Caselles</string>
+    <string name="telefono">555222777</string>
+    <string name="email">jc17@gmail.com</string>
+    <string name="direccion">Miami</string>
+
+</resources>
